@@ -3,12 +3,12 @@ entries:
   sk224-myfirst-helmchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-10-13T11:03:30.966759+09:00"
+    created: "2026-10-13T11:05:44.148234+09:00"
     description: A Helm chart for Kubernetes
-    digest: 91eccbaa1a1ce5f0f0874c16035693f82084177b967ea5b23a0535153e0095b4
+    digest: 2f2e0e5eb4fec35b683327d35dc8d9c15547092b523909812386c55f94a0c1fc
     name: sk224-myfirst-helmchart
     type: application
     urls:
     - https://runningrowlet.github.io/mycharts/sk224-myfirst-helmchart-0.0.1.tgz
     version: 0.0.1
-generated: "2026-10-13T11:03:30.965256+09:00"
+generated: "2026-10-13T11:05:44.147675+09:00"
